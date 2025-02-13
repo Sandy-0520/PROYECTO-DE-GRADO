@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-IB90627.PROYECTO_DENTAL_BI_AI"
+  DTS:DTSID="{5DC7B516-60B8-406A-A452-70E85A335E06}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-IB90627;Initial Catalog=PROYECTO_DENTAL_BI_AI;Integrated Security=True;Application Name=SSIS-DENTA_BI_AI_ETL_ERP-{5DC7B516-60B8-406A-A452-70E85A335E06}DESKTOP-IB90627.PROYECTO_DENTAL_BI_AI;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
